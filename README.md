@@ -1,0 +1,3 @@
+# Shellcode encode
+
+wip...
